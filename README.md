@@ -34,3 +34,4 @@ The course consists of 7 lab assignments. These assignments are:
 - [Lab 0 -- Server setup, Basics of Linux, and JupyterLab](00-lab0/README.md)
 - [Lab 1 -- Basic Tools: Docker, Docker Compose, Tcpdump, Wireshark, and Tmux](01-lab1/README.md)
 - [Lab 2 -- Application Layer: Web, Email, and DNS](02-lab2/README.md)
+- [Lab 3 -- Lab 3 -- Socket Programming](03-lab3/README.md)
