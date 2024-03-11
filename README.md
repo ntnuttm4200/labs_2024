@@ -36,3 +36,4 @@ The course consists of 7 lab assignments. These assignments are:
 - [Lab 2 -- Application Layer: Web, Email, and DNS](02-lab2/README.md)
 - [Lab 3 -- Socket Programming](03-lab3/README.md)
 - [Lab 4 -- Transport Layer](04-lab4/)
+- [Lab 5 -- Network Layer](05-lab5/)
